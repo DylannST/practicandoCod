@@ -14,7 +14,15 @@ margin: auto;
 .tres{
     color: hotpink;
 }
+
 .imagen{
     background-color: lightblue;
+    
+}
+.developer{
+    text-align: center;
+    color: indianred;
+    font-size: 60px;
+    background-color: lavender;
     
 }
